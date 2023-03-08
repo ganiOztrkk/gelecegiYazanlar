@@ -1,52 +1,35 @@
-﻿// kod yazarken her turlu name alanını ingilizce olarak isimlendirin. açıklama satırları turkce olabilir. 
+﻿//switch case de bir kosul kontrol yontemidir. peki ne zaman switch case ne zaman if else
 
-using System.Threading.Tasks.Sources;
+Console.WriteLine("bir şekil seçiniz (kare, daire, üçgen)!");
+string geometry = Console.ReadLine();
 
-Console.WriteLine("kullanıcı adı giriniz");
-string name = Console.ReadLine();
-Console.WriteLine("kullanıcı şifre giriniz");
-string password = Console.ReadLine();
-
-
-if (name == "gani" & password =="g1a2") // tek & işareti ile && işareti arasındaki fark, eger ifade tekse bu durumda birinci koşulu kontrol eder ve false donerse ikinciye ilerlemez direk false doner. eger ciftse iki ifadeyi de check eder. en az biri false ise false doner.
+if (geometry == "kare")
 {
-    Console.WriteLine("gani bey hosgeldiniz");
+    Console.WriteLine("birim kenarın karesi");
 }
-else if (name == "ayten" && password == "1122")
+else if (geometry == "daire")
 {
-    Console.WriteLine("ayten hn hosgeldiniz");
+    Console.WriteLine("yarı çapın karesi x pi");
 }
-else
+else if (geometry == "üçgen")
 {
-    Console.WriteLine("tanımlanmamıs kisi");
+    Console.WriteLine("taban * yükseklik / 2 ");
 }
 
-//else if ile if arasındaki fark şudur. eger else if kullanılırsa bu durumda bu scope kendinden onceki if blogunun durumuna baglıdır. sadece if kullanılırsa bu durum sadece kendini baglar bir onceki if blogu bunu etkilemez.
+// iki durum tamamen aynı çıktıyı verir. fakat neden switch case durumunu tercih edelim. bunu en iyi break point gosterir. if blokları eger ücgen girdisi verirsek en ustten kosulları kontrol etmeye baslar. üçgen kosulunu bulana kadar kosulları kontrol ederek asagı iner
 
-Console.WriteLine("hangi aydasın ? ");
-string month = Console.ReadLine();
-
-if (month == "mart" || month == "nisan" || month == "mayıs") // yada operatorudur. herhangi biri true donerse durum truedir. 
+//switch case ise üçgene gider isini yapar cıkar. gerisine bakmaz bile.  
+switch (geometry)
 {
-    Console.WriteLine("ilkbahar mevsimindesiniz");
+    case "kare":
+        Console.WriteLine("birim kenarın karesi");
+        break;
+    case "daire":
+        Console.WriteLine("yarı çapın karesi x pi");
+        break;
+    case "üçgen":
+        Console.WriteLine("taban * yükseklik / 2 ");
+        break;
+    default:
+        break;
 }
-
-Console.WriteLine("bir sayı giriniz");
-int number = Convert.ToInt16(Console.ReadLine());
-string message = string.Empty; // bu "" denktir. ama daha temiz gozukur.
-
-if (number % 2 == 0)
-{
-    message = "sayı çifttir";
-}
-else
-{
-    message = "tektir";
-}
-
-string message2 = number % 2 == 0 ? "sayı cifttir" : "sayı tektir.";
-string greetings = DateTime.Now.Hour > 18 ? "iyi gunler" : "iyi aksamlar";
-
-Console.WriteLine(message);
-Console.WriteLine(message2);
-Console.WriteLine(greetings);
