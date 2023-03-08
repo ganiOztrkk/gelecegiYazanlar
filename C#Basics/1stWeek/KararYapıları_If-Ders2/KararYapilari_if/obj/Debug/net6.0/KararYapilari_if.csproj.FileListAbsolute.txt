@@ -1,0 +1,15 @@
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\bin\Debug\net6.0\KararYapilari_if.exe
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\bin\Debug\net6.0\KararYapilari_if.deps.json
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\bin\Debug\net6.0\KararYapilari_if.runtimeconfig.json
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\bin\Debug\net6.0\KararYapilari_if.dll
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\bin\Debug\net6.0\KararYapilari_if.pdb
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\KararYapilari_if.csproj.AssemblyReference.cache
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\KararYapilari_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\KararYapilari_if.AssemblyInfoInputs.cache
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\KararYapilari_if.AssemblyInfo.cs
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\KararYapilari_if.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\KararYapilari_if.dll
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\refint\KararYapilari_if.dll
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\KararYapilari_if.pdb
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\KararYapilari_if.genruntimeconfig.cache
+C:\Users\gani9\Desktop\Turkcell Gelecegi Yazanlar\KararYapıları_If-Ders2\KararYapilari_if\obj\Debug\net6.0\ref\KararYapilari_if.dll

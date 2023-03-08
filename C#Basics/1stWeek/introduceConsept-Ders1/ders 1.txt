@@ -1,0 +1,16 @@
+c# bir dildir
+.net bir frameworktur
+birden fazla dili tek catı altında destekleyebilen tek framework .nettir. - suan icin.
+
+icerisinde bir amaca hizmet edecek bir cok aracı bulunduran yapıya framework denir. 
+lutfen türlü yap - c#
+turlu yapacak malzemeler, arac gerecler, ortam yontem... bunların tumu .net frameworktur.
+
+.net catısını bir cok farklı dil ile yonetebiliriz. boyle bir framework benzeri yok suan.
+fikir babası billgates dir.
+ise alırken hangi dili bilirsen bil farketmez, .net framework bil yeter mantalitesini uygulayabilmek icin bunu diretti.
+
+odevlerde temiz anlasılır kod
+oop uyumlu kod, oop prensipleri uyulmus mu 
+tekrara girme durumu var mı, kod kendini tekrar etmis mi 
+------odev hususundaki ana kalemler------
