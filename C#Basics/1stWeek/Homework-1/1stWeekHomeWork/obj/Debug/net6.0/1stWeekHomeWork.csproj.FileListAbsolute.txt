@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\bin\Debug\net6.0\1stWeekHomeWork.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\bin\Debug\net6.0\1stWeekHomeWork.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\bin\Debug\net6.0\1stWeekHomeWork.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\bin\Debug\net6.0\1stWeekHomeWork.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\bin\Debug\net6.0\1stWeekHomeWork.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\1stWeekHomeWork.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\1stWeekHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\1stWeekHomeWork.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\1stWeekHomeWork.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\1stWeekHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\1stWeekHomeWork.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\refint\1stWeekHomeWork.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\1stWeekHomeWork.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\1stWeekHomeWork.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\1stWeek\Homework-1\1stWeekHomeWork\obj\Debug\net6.0\ref\1stWeekHomeWork.dll
