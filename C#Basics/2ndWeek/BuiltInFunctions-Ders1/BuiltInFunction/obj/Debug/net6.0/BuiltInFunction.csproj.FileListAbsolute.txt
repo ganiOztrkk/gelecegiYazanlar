@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\bin\Debug\net6.0\BuiltInFunction.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\bin\Debug\net6.0\BuiltInFunction.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\bin\Debug\net6.0\BuiltInFunction.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\bin\Debug\net6.0\BuiltInFunction.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\bin\Debug\net6.0\BuiltInFunction.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\BuiltInFunction.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\BuiltInFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\BuiltInFunction.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\BuiltInFunction.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\BuiltInFunction.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\BuiltInFunction.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\refint\BuiltInFunction.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\BuiltInFunction.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\BuiltInFunction.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\BuiltInFunctions-Ders1\BuiltInFunction\obj\Debug\net6.0\ref\BuiltInFunction.dll

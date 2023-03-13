@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\bin\Debug\net6.0\ForEachLoop.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\bin\Debug\net6.0\ForEachLoop.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\bin\Debug\net6.0\ForEachLoop.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\bin\Debug\net6.0\ForEachLoop.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\bin\Debug\net6.0\ForEachLoop.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ForEachLoop.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ForEachLoop.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ForEachLoop.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\refint\ForEachLoop.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ForEachLoop.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ForEachLoop.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\C#Basics\2ndWeek\ForEachLoop-Ders1\ForEachLoop\obj\Debug\net6.0\ref\ForEachLoop.dll
