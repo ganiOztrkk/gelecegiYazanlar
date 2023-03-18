@@ -1,6 +1,8 @@
 ﻿// 4 farklı  geometrik şekle dair alan hesabı yapmak istiyoruz
 
 
+using System;
+
 Geometry geometry = new Geometry();
 
 
@@ -25,7 +27,7 @@ public class Geometry
                 result = unit1 * unit1;
                 break;
             case "Daire":
-                result = unit1 * 3.14;
+                result = Math.Pow(unit1, 2) * Math.PI;
                 break;
             default:
                 break;
@@ -50,6 +52,37 @@ public class Geometry
                 break;
             case "Üçgen":
                 result = (unit1*unit2) / 2;
+                break;
+            default:
+                break;
+        }
+        return result;
+    }
+
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="unit1">[ZORUNLU] Kenar uzunluğu</param>
+    /// <param name="unit2">[OPSIYONEL] Kenar Uzunluğu</param>
+    /// <param name="geometry">[OPSIYONEL]</param>
+    /// <returns></returns>
+    public double AlternativeGetArea(double unit1, double unit2 = 1, string geometry = "Kare")
+    {
+        double result = 0;
+        switch (geometry)
+        {
+            case "Kare":
+                result = unit1 * unit1;
+                break;
+            case "Daire":
+                result = Math.Pow(unit1,2)* Math.PI;
+                break;
+            case "Dikdörtgen":
+                result = unit1 * unit2;
+                break;
+            case "Üçgen":
+                result = (unit1 * unit2) / 2;
                 break;
             default:
                 break;

@@ -1,0 +1,6 @@
+Paradigma nedir ? 
+OOP Paradigması nedir ?
+Nesne nedir ? 
+class nedir ?
+Encapsulation nedir ? 
+Constructor nedir ? 
