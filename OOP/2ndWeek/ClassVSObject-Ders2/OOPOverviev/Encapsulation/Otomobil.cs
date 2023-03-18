@@ -8,9 +8,8 @@ namespace Encapsulation
 {
     public class Otomobil
     {
-        int hiz = 0;
-        bool arabaCalisiyorMu = false;
-
+        private int hiz = 0;
+        private bool arabaCalisiyorMu = false;
         public void Calistir()
         {
             arabaCalisiyorMu = true;
@@ -18,12 +17,28 @@ namespace Encapsulation
 
         public void GazaBas()
         {
-            hiz++;
+            if (arabaCalisiyorMu)
+            {
+                hiz++;
+            }
+            else
+            {
+                Console.WriteLine("Araba çalışmıyor!");
+            }
         }
 
         public void Durdur()
         {
-            hiz = 0;
+            if (arabaCalisiyorMu)
+            {
+                hiz = 0;
+
+            }
+            else
+            {
+                Console.WriteLine("Araba çalışmıyor!");
+
+            }
         }
     }
 }

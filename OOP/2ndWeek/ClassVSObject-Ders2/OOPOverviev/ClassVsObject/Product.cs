@@ -10,6 +10,5 @@ namespace ClassVsObject
     {
         public string Name;
         public bool IsInStock;
-
     }
 }
