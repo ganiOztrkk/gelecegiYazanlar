@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\bin\Debug\net6.0\NullOperations.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\bin\Debug\net6.0\NullOperations.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\bin\Debug\net6.0\NullOperations.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\bin\Debug\net6.0\NullOperations.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\bin\Debug\net6.0\NullOperations.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\NullOperations.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\NullOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\NullOperations.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\NullOperations.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\NullOperations.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\NullOperations.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\refint\NullOperations.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\NullOperations.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\NullOperations.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\3rdWeek\NullConcept\NullOperations\obj\Debug\net6.0\ref\NullOperations.dll
