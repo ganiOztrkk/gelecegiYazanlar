@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\bin\Debug\net6.0\OOP-Kavramlar.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\bin\Debug\net6.0\OOP-Kavramlar.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\bin\Debug\net6.0\OOP-Kavramlar.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\bin\Debug\net6.0\OOP-Kavramlar.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\bin\Debug\net6.0\OOP-Kavramlar.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\OOP-Kavramlar.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\OOP-Kavramlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\OOP-Kavramlar.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\OOP-Kavramlar.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\OOP-Kavramlar.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\OOP-Kavramlar.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\refint\OOP-Kavramlar.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\OOP-Kavramlar.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\OOP-Kavramlar.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-4\Kavramlar-BrainStorming\OOP-Kavramlar\OOP-Kavramlar\obj\Debug\net6.0\ref\OOP-Kavramlar.dll

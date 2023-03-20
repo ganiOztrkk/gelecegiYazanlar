@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\bin\Debug\net6.0\CounterStrike.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\bin\Debug\net6.0\CounterStrike.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\bin\Debug\net6.0\CounterStrike.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\bin\Debug\net6.0\CounterStrike.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\bin\Debug\net6.0\CounterStrike.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\CounterStrike.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\CounterStrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\CounterStrike.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\CounterStrike.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\refint\CounterStrike.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\CounterStrike.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\CounterStrike.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\OOP\2ndWeek\CounterStrike-Ders3\CounterStrike\CounterStrike\obj\Debug\net6.0\ref\CounterStrike.dll
