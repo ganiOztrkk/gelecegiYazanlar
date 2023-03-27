@@ -1,0 +1,28 @@
+Solid prensibi -L- adımı
+
+Liskov substitution principle(LSP) - Barbara Liskov.
+
+Liskov der ki bir sınıf bir başka sınıfa miras veriyorsa bu sınıflar birbilerinin yerine kullanılabilirler.
+Birbirlerinin yerine kullanıldıkları takdirde beklenen fonksiyonlar gerçekleşmeli ve hata
+fırlatmamalı.
+
+fincan - bardaktan miras alıyor. başka bir objede bardak istenen yere fincan gönderilebilmeli. Ya da 
+fincan istenen yere bardak gelebilmeli.
+
+*bir sınıf bir başka sınıfa miras veriyorsa bu sınıflar birbilerinin yerine kullanılabilirler.
+
+*Bir sınıf miras aldığı sınıfın özelliklerini AYNEN KULLANMALIDIR.
+eğer aynen kullanmıyorsa, kalıtım alan sınıf base sınıfın fonksiyonlarına hata fırlatıyorsa ya da bozuyorsa
+burada kalıtım almamalısın. kalıtım alıyorsan her şey aynen kullanılabilmeli ve sorun çıkmamalı. 
+
+***************
+
+Interface Segregation Principle
+
+eğer bir sınıf bir interface implemente ediyorsa, bu interface ait tüm metotları kullanmak ve doldurmak
+zorundadır.
+başka bir deyişle gereksiz ve kullanılmayan metotlar tek bir interface'e bağlanmak zorunda olmamalıdır.
+
+hiçbir kodun kullanmadığı yöntemlere bağlı olmaya zorlanmaması gerektiğini belirtir. 
+ISP, çok büyük olan arabirimleri daha küçük ve daha spesifik olanlara böler, böylece istemciler 
+yalnızca kendilerini ilgilendiren yöntemler hakkında bilgi sahibi olur.
