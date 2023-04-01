@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\refint\OpenClosedExample.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\OpenClosedPrinciple\OpenClosedExample\OpenClosedExample\obj\Debug\net6.0\ref\OpenClosedExample.dll
