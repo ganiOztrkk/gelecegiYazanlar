@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\bin\Debug\net6.0\SOLID_SRP_Homework.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\bin\Debug\net6.0\SOLID_SRP_Homework.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\bin\Debug\net6.0\SOLID_SRP_Homework.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\bin\Debug\net6.0\SOLID_SRP_Homework.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\bin\Debug\net6.0\SOLID_SRP_Homework.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\SOLID_SRP_Homework.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\SOLID_SRP_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\SOLID_SRP_Homework.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\SOLID_SRP_Homework.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\SOLID_SRP_Homework.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\SOLID_SRP_Homework.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\refint\SOLID_SRP_Homework.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\SOLID_SRP_Homework.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\SOLID_SRP_Homework.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-SOLID\SingleResponsibilityPrinciple\SOLID_SRP_Homework\SOLID_SRP_Homework\obj\Debug\net6.0\ref\SOLID_SRP_Homework.dll
