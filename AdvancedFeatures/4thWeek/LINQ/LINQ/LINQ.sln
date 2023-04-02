@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqIntro", "LinqIntro\LinqIntro.csproj", "{C92C4F88-6F66-4EDB-B335-DD21154DFD13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{7B0A378C-56EA-478E-B472-6D10EB3323F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92C4F88-6F66-4EDB-B335-DD21154DFD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92C4F88-6F66-4EDB-B335-DD21154DFD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92C4F88-6F66-4EDB-B335-DD21154DFD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92C4F88-6F66-4EDB-B335-DD21154DFD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0A378C-56EA-478E-B472-6D10EB3323F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0A378C-56EA-478E-B472-6D10EB3323F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0A378C-56EA-478E-B472-6D10EB3323F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0A378C-56EA-478E-B472-6D10EB3323F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCDE851-1512-42C7-A24E-23022F69888F}
+	EndGlobalSection
+EndGlobal
