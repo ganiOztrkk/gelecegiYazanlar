@@ -1,0 +1,22 @@
+Ders 9 - Part 2 Dakika 17.00
+
+senaryo:
+kişilerin genel olarak kiraladığı ya da rezerve ettiği çeşitli varlıklar var.
+
+*bir otel rezervasyonu ile meeting salonu ya da araç kiralamanın validasyonları bambaşka şeyler.
+
+otelin iki salonu var biri 100 biri 500 kisilik
+bi salon u dizilim bi salon sinema konsept.
+validasyon bambaska
+
+
+görevimiz varlıkları olusturmak ve validasyonları saglamak
+
+varlıklar: araç kiralama, otel odası rezervasyon, toplantı seminer salonu rezervasyonu.
+validasyon
+
+
+
+
+
+
