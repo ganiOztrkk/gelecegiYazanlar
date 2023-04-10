@@ -1,0 +1,11 @@
+﻿Varlıklar Okul-Öğretmen-Öğrenci-Sınıf
+
+* Veri tabanı kullanılmayacak, Öğretmen, Öğrenci, Sınıf listeleri Generic olarak geçici bellekte tutulacak.
+
+* Okula sınıf ekleme, öğretmen ekleme ve atama, sınıfa öğrenci atama gibi işlemler yapılacak. 
+
+* Öğrenciler ödev iletebilecek.
+ 
+* sınıflar öğretmenler ve öğrenciler listelenebilecek.
+
+* id göre öğretmen öğrenci getirilebilecek.

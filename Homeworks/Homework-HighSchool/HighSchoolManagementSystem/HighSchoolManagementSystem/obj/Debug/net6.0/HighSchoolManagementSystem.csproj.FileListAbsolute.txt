@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.exe
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.deps.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\bin\Debug\net6.0\HighSchoolManagementSystem.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\refint\HighSchoolManagementSystem.dll
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.pdb
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\HighSchoolManagementSystem.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-HighSchool\HighSchoolManagementSystem\HighSchoolManagementSystem\obj\Debug\net6.0\ref\HighSchoolManagementSystem.dll

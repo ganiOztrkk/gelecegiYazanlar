@@ -1,0 +1,19 @@
+﻿// Uygulamanın business kısmını isteniyor, arayüz önemli değil.
+
+// Teknik anlamda en ideal kod isteniyor.
+
+// Bir lise düşünüyoruz ve bu lisede bir kaç tane sınıf mevcut, her sınıfta da öğrenciler var ve her sınıftan sorumlu öğretmen olacak;
+
+// Sınıfta öğrenci kapasitesi yok.
+
+// Bu sınıfları, öğrencileri ve eğitmenleri atayan bir uygulama,
+
+// Sınıflarda öğrenci aranabilecek,
+
+// Hangi eğitmen hangi sınıfta onu öğrenebileceğiz
+
+// İskelet olarak öğrenci eğitmenine ödevini gönderebilecek
+
+// Bu sistemin iş mantığı isteniyor.
+
+// OOP, SOLID, Temiz kod önemli kriterler;
