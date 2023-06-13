@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CampingApp.Mvc
+build_property.RootNamespace = CampingApp.Mvc
+build_property.ProjectDir = C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-Core-Project\CampingApp\src\mvcUI\CampingApp.Mvc\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gani9\Documents\GitHub\gelecegiYazanlar\Homeworks\Homework-Core-Project\CampingApp\src\mvcUI\CampingApp.Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Products/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Shared/Components/BasketLink/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmFza2V0TGlua1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Shared/_ProductDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0RGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Shopping/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Users/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Users/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Users/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVXBkYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gani9/Documents/GitHub/gelecegiYazanlar/Homeworks/Homework-Core-Project/CampingApp/src/mvcUI/CampingApp.Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b09kssdc5b

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<UsersDisplayResponseDto>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>User List</h1>
+
+<div class="container">
+    <table class="table table-hover">
+        <tr>
+            <th>#</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.UserID</td>
+                <td>@item.UserName</td>
+                <td>@item.Email</td>
+                <td>@item.Role</td>
+                <td><a href="/Users/UpdateUser/@item.UserID" class="btn btn-warning">Update</a></td>
+                <td><a href="/Users/DeleteUser/@item.UserID" class="btn btn-danger">Delete</a></td>
+            </tr>
+        }
+    </table>
+    <a href="/Users/AddUser/" class="btn btn-primary">New User</a>
+</div>

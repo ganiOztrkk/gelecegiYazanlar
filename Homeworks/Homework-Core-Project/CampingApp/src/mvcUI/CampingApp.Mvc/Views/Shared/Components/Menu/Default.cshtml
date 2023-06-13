@@ -1,0 +1,8 @@
+﻿@model IEnumerable<CategoryDisplayResponseDto>
+
+<div class="list-group-horizontal" style="margin-left: 35%">
+    @foreach (var item in Model)
+    {
+        <a class="btn btn-primary" asp-action="Index" asp-controller="Home" asp-route-id="@item.CategoryID">@item.CategoryName</a>
+    }
+</div>

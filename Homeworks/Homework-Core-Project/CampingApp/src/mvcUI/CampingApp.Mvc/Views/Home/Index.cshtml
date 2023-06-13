@@ -1,0 +1,45 @@
+﻿@model PaginationProductViewModel
+@{
+    ViewData["Title"] = "Home Page";
+    var columnCounter = 0;
+}
+
+
+@await Component.InvokeAsync("Menu")
+
+<div class="row m-4">
+    @foreach (var item in Model.Products)
+    {
+        if (columnCounter != 0 && columnCounter % 4 == 0)
+        {
+            @:</div><div class="row m-4">
+        }
+        <div class="col-3">
+            <partial name="_ProductDisplay" model="item"/>
+        </div>
+        columnCounter++;
+    }
+    <div page-model="Model.PagingInfo" page-action="Index" style="margin-top: 10px;" ></div>
+</div>
+
+
+@section Scripts
+{
+    <script>
+        $(document).ready(function(){
+            $('.basket').on('click',function(){
+                let id = $(this).data('id');
+                $.ajax({
+                    url:'/Shopping/AddProductIntoCart/'+id,
+                    type:'GET',
+                    success:function(data){
+                        alertify.success(data.message);
+                    },
+                    error:function(err){
+                        console.log('hata',error);
+                    }
+                });
+            });
+        });
+    </script>
+}

@@ -1,0 +1,23 @@
+﻿@model CampingApp.DataTransferObjects.requests.UpdateUserRequestDto
+@{
+    ViewData["Title"] = "UpdateUser";
+}
+
+<h1>Update User</h1>
+<div class="container">
+    <br />
+    <form method="post">
+        <input type="hidden" class="form-control" asp-for="UserID" />
+        <input type="hidden" class="form-control" asp-for="Password" />
+        <label>Username</label>
+        <input type="text" class="form-control" asp-for="UserName"/>
+        <br/>
+        <label>Email</label>
+        <input type="text" class="form-control" asp-for="Email"/>
+        <br/>
+        <label>Role</label>
+        <input type="text" class="form-control" asp-for="Role"/>
+        <br/>
+        <button class="btn btn-success">Update</button>
+    </form>
+</div>

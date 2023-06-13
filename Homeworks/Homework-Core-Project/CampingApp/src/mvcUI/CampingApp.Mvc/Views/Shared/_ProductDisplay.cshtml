@@ -1,0 +1,10 @@
+﻿@model ProductDisplayResponseDto
+<div class="card">
+    <img src="@Model.ProductImageUrl" class="img-fluid" alt=""/>
+    <div class="card-body">
+        <h4 class="card-title">@Model.ProductName</h4>
+        <div class="card-text">@Model.ProductDescription</div>
+        <div class="card-text">@Model.ProductPrice</div>
+        <button class="btn btn-success basket" data-id="@Model.ProductID">Add To Cart</button>
+    </div>
+</div>

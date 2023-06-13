@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.Services\\CampingApp.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.DataTransferObjects\\CampingApp.DataTransferObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.DataTransferObjects\\CampingApp.DataTransferObjects.csproj",
+        "projectName": "CampingApp.DataTransferObjects",
+        "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.DataTransferObjects\\CampingApp.DataTransferObjects.csproj",
+        "packagesPath": "C:\\Users\\gani9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.DataTransferObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gani9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.Services\\CampingApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.Services\\CampingApp.Services.csproj",
+        "projectName": "CampingApp.Services",
+        "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.Services\\CampingApp.Services.csproj",
+        "packagesPath": "C:\\Users\\gani9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gani9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.DataTransferObjects\\CampingApp.DataTransferObjects.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\application\\CampingApp.DataTransferObjects\\CampingApp.DataTransferObjects.csproj"
+              },
+              "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\infrastructure\\CampingApp.Infrastructure\\CampingApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\infrastructure\\CampingApp.Infrastructure\\CampingApp.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\domains\\CampingApp.Entities\\CampingApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\domains\\CampingApp.Entities\\CampingApp.Entities.csproj",
+        "projectName": "CampingApp.Entities",
+        "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\domains\\CampingApp.Entities\\CampingApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\gani9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\domains\\CampingApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gani9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\infrastructure\\CampingApp.Infrastructure\\CampingApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\infrastructure\\CampingApp.Infrastructure\\CampingApp.Infrastructure.csproj",
+        "projectName": "CampingApp.Infrastructure",
+        "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\infrastructure\\CampingApp.Infrastructure\\CampingApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gani9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\infrastructure\\CampingApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gani9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\domains\\CampingApp.Entities\\CampingApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\gelecegiYazanlar\\Homeworks\\Homework-Core-Project\\CampingApp\\src\\domains\\CampingApp.Entities\\CampingApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

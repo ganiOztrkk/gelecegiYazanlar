@@ -1,0 +1,44 @@
+﻿@model ProductCollectionCart
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Chart</h1>
+
+@if (Model.ProductItems.Count == 0)
+{
+    <div class="alert alert-danger">
+        Your Chart Is Empty
+    </div>
+}
+else
+{
+    <div class="container">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Product Price</th>
+                    <th>Product Quantity</th>
+                    <th>Subtotal</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.ProductItems)
+                {
+                    <tr>
+                        <td>@item.Product.ProductName</td>
+                        <td>@item.Product.ProductPrice</td>
+                        <td>@item.Quantity</td>
+                        <td>@(item.Quantity * item.Product.ProductPrice)</td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+            <tr>
+                <td colspan="4">Total: @Model.TotalCartPrice()</td>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
+}
