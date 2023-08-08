@@ -1,5 +1,6 @@
 ﻿using System.Security.Claims;
 using CampingApp.DataTransferObjects.requests;
+using CampingApp.Entities;
 using CampingApp.Mvc.Models;
 using CampingApp.Services;
 using Microsoft.AspNetCore.Authentication;

@@ -18,7 +18,7 @@ namespace CampingApp.Services
         Task UpdateUserAsync(UpdateUserRequestDto updateUserRequestDto);
         Task CreateUserAsync(CreateNewUserRequestDto createNewUserRequestDto);
 
-        Task DeleteUserAsync(User user);
-        Task<User> GetUserByIdAsync(int id);
+        Task DeleteUserAsync(User? user);
+        Task<User?> GetUserByIdAsync(int id);
     }
 }
